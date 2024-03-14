@@ -52,5 +52,3 @@ helm delete my-release
 The command removes all the Kubernetes components associated with the chart and deletes the release.
 ```
 ```
-
-This README provides an overview of Helm, Helm charts, and how they are useful in deploying applications on Kubernetes, along with instructions for using the Grafana Helm chart. Let me know if you need further information!
