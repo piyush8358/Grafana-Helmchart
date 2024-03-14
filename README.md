@@ -1,4 +1,4 @@
-```markdown
+
 # Grafana Helm Chart
 
 This Helm chart is used to install the Grafana web dashboarding system. It provides a convenient way to deploy and manage Grafana on Kubernetes.
